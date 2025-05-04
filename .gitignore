@@ -1,0 +1,42 @@
+# ========================
+# Node.js / Express Server
+# ========================
+server/node_modules/
+server/.env
+server/.DS_Store
+server/npm-debug.log
+server/yarn-debug.log
+server/yarn-error.log
+
+# Logs
+logs
+*.log
+
+# ========================
+# React Frontend (Client)
+# ========================
+client/node_modules/
+client/.env
+client/.DS_Store
+client/npm-debug.log
+client/yarn-debug.log
+client/yarn-error.log
+client/build/
+
+# ========================
+# Common
+# ========================
+.env
+node_modules/
+*.log
+.DS_Store
+.vscode/
+.idea/
+dist/
+build/
+coverage/
+
+# Optional: macOS system files
+*.swp
+*.swo
+Thumbs.db
